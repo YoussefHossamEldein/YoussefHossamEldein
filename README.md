@@ -253,4 +253,3 @@ Backend Intern   @ DBS MENA                Mar 2026 – Present
 * 💬 Ask me about: **ASP.NET Core · REST APIs · SQL Server · Embedded Systems**
 
 
-```
