@@ -1,4 +1,3 @@
-````md
 <h1 align="center">Hi there, I'm Youssef Hossam 👋</h1>
 <h3 align="center">Backend .NET Developer passionate about building scalable systems and high-performance RESTful APIs.</h3>
 
@@ -253,5 +252,5 @@ Backend Intern   @ DBS MENA                Mar 2026 – Present
 * 🔹 Practicing Embedded Systems & Automotive communication protocols
 * 💬 Ask me about: **ASP.NET Core · REST APIs · SQL Server · Embedded Systems**
 
-```
+
 ```
