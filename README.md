@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://drive.google.com/file/d/1KQKbY8XATbWDv62feLRd3BU7ma8kfuiI/view?usp=sharing">
       <img src="https://img.shields.io/badge/🔗 My CV-007520?style=flat" style="height:35px; object-fit:contain;"/></a> &nbsp;
-    <a href="https://YoussefHossamEldein/.github.io/portfolio/">
+    <a href="https://YoussefHossamEldein.github.io/portfolio/">
       <img src="https://img.shields.io/badge/🔗 My Portfolio-003580?style=flat" style="height:35px; object-fit:contain;"/></a>
 </p>
 
