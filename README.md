@@ -11,7 +11,7 @@
 <p align="center">
     <a href="YOUR_CV_LINK">
       <img src="https://img.shields.io/badge/🔗 My CV-007520?style=flat" style="height:35px; object-fit:contain;"/></a> &nbsp;
-    <a href="YOUR_PORTFOLIO_LINK">
+    <a href="https://drive.google.com/file/d/1KQKbY8XATbWDv62feLRd3BU7ma8kfuiI/view?usp=sharing">
       <img src="https://img.shields.io/badge/🔗 My Portfolio-003580?style=flat" style="height:35px; object-fit:contain;"/></a>
 </p>
 
@@ -35,8 +35,8 @@
 
 <div align="center">
 <table><tr>
-<td><a href="https://linkedin.com/in/YoussefHossam" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="55" width="55" /></a></td>
-<td><a href="https://github.com/YoussefHossam" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="55" width="55" /></a></td>
+<td><a href="https://linkedin.com/in/youssef-hossameldein" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="55" width="55" /></a></td>
+<td><a href="https://github.com/YoussefHossamEldein" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="55" width="55" /></a></td>
 <td><a href="mailto:youssefhossameldeinn@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="55" width="55" /></a></td>
 </tr></table>
 </div>
