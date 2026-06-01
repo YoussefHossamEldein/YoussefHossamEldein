@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Youssef Hossam 👋</h1>
-<h3 align="center">Backend .NET Developer passionate about building scalable systems and high-performance RESTful APIs.</h3>
+<h3 align="center">Backend .NET Developer specializing in ASP.NET Core, System Design, Clean Architecture, and Scalable RESTful APIs.</h3>
 
 <div align="center">
 
@@ -23,7 +23,8 @@
 ## 🚀 About Me
 
 🎓 **Electronics & Communication Engineering Graduate** from Misr University for Science and Technology | **GPA: 3.43**  
-💻 **Backend .NET Developer** specializing in ASP.NET Core Web APIs and database-driven applications  
+💻 Backend .NET Developer specializing in ASP.NET Core MVC, Web APIs, and scalable backend architectures
+🏗️ Experienced with N-Tier Architecture, CQRS, Repository Pattern, and Service Layer design
 ⚙️ Strong background in **Embedded Systems** and system optimization principles  
 💼 Currently interning as **Backend Intern @ DBS MENA**  
 📍 Based in **Sheikh Zayed, Giza, Egypt**
@@ -96,12 +97,17 @@
 
 ### 🎯 Backend Development
 ```yaml
-  ✓ ASP.NET Core Web APIs
-  ✓ RESTful API Design
-  ✓ Entity Framework Core
-  ✓ LINQ
-  ✓ SQL Server Integration
-  ✓ Relational Database Design
+✓ ASP.NET Core MVC
+✓ ASP.NET Core Web APIs
+✓ RESTful API Design
+✓ Entity Framework Core
+✓ LINQ
+✓ SQL Server Integration
+✓ Repository Pattern
+✓ Service Pattern
+✓ N-Tier Architecture
+✓ CQRS
+✓ MediatR
 ````
 
 </td>
@@ -160,24 +166,29 @@
 | 💼 Industry Experience  | **Backend Intern @ DBS MENA**               |
 | ☁️ Cloud Knowledge      | **AWS + Linux + CI/CD Basics**              |
 | ⚙️ Embedded Expertise   | **Multiple AVR & Automotive Projects**      |
-| 🛠️ Backend Development | **Scalable APIs with ASP.NET Core**         |
+| | 🛠️ Backend Development | ASP.NET Core MVC, Web APIs & System Architecture |
 | 🔧 System Optimization  | **Engineering-focused performance mindset** |
+| 🏗️ Software Architecture | N-Tier Architecture, CQRS & MediatR |
 
 ---
 
 ## 🗂️ Featured Projects
 
-| Project                                                              | Description                                                                           | Tech                    |
-| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------- |
-| 🏦 [**Bank Management System**](https://github.com/YoussefHossam)    | Database-driven banking system with Entity Framework Core and SQL Server integration. | C#, SQL Server, EF Core |
-| 📚 [**Library Management System**](https://github.com/YoussefHossam) | Console-based management system implementing core OOP principles.                     | C#, OOP                 |
-| 📦 [**Product Management System**](https://github.com/YoussefHossam) | CRUD application with responsive UI and dynamic product handling.                     | JavaScript, HTML, CSS   |
-| 🍔 [**Omnifood Website**](https://github.com/YoussefHossam)          | Fully responsive modern landing page built with pure HTML/CSS.                        | HTML, CSS               |
-| 🚗 [**Vehicle Control System**](https://github.com/YoussefHossam)    | Automotive simulation system implementing embedded control logic.                     | C Language              |
-| ⏱️ [**Stopwatch System**](https://github.com/YoussefHossam)          | Interrupt-based timer system using GPIO and ATmega32.                                 | Embedded C, AVR         |
-| 🌡️ [**Fan Controller**](https://github.com/YoussefHossam)           | Temperature-controlled fan system using ADC & PWM.                                    | Embedded C, ATmega32    |
-| 📏 [**Distance Measuring System**](https://github.com/YoussefHossam) | Ultrasonic sensor integration with LCD display output.                                | Embedded Systems        |
-| 🔐 [**Door Locker System**](https://github.com/YoussefHossam)        | EEPROM-based secure locking system with keypad authentication.                        | Embedded Systems        |
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🏋️ **Gym Management System** | Enterprise-style ASP.NET Core MVC application for managing members, trainers, memberships, sessions, and schedules. Built using N-Tier Architecture with Repository and Service patterns to ensure maintainability, scalability, and clean separation of concerns. | ASP.NET Core MVC, EF Core, SQL Server, N-Tier Architecture |
+| 🔗 Repository | https://github.com/YoussefHossamEldein/GymManagementSystem | |
+| 🛒 **Store Management System** | Full-stack inventory and sales management platform built with ASP.NET Core Web API and Angular. Implements CQRS architecture using MediatR and EF Core, with Docker containerization and SQL Server integration. | ASP.NET Core API, Angular, CQRS, MediatR, EF Core, SQL Server, Docker |
+| 🔗 Repository | https://github.com/YoussefHossamEldein/StoreManagementSystem | |
+| 🏦 **Bank Management System** | Database-driven banking system with Entity Framework Core and SQL Server integration. | C#, SQL Server, EF Core |
+| 📚 **Library Management System** | Console-based management system implementing core OOP principles. | C#, OOP |
+| 📦 **Product Management System** | CRUD application with responsive UI and dynamic product handling. | JavaScript, HTML, CSS |
+| 🍔 **Omnifood Website** | Fully responsive modern landing page built with pure HTML/CSS. | HTML, CSS |
+| 🚗 **Vehicle Control System** | Automotive simulation system implementing embedded control logic. | C Language |
+| ⏱️ **Stopwatch System** | Interrupt-based timer system using GPIO and ATmega32. | Embedded C, AVR |
+| 🌡️ **Fan Controller** | Temperature-controlled fan system using ADC & PWM. | Embedded C, ATmega32 |
+| 📏 **Distance Measuring System** | Ultrasonic sensor integration with LCD display output. | Embedded Systems |
+| 🔐 **Door Locker System** | EEPROM-based secure locking system with keypad authentication. | Embedded Systems |
 
 ---
 
